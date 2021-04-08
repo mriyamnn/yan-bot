@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "HAFIZH",
+  "author": "mriyamnn",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -36,10 +36,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HAFizh-15/leyscoders-api.git"
+    "url": "git+https://github.com/mriyamnn/yan-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/HAFizh-15/leyscoders-api/issues"
+    "url": "https://github.com/mriyamnn/yan-bot/issues"
   },
-  "homepage": "https://github.com/HAFizh-15/leyscoders-api#readme"
+  "homepage": "https://github.com/mriyamnn/yan-bot#readme"
 }
