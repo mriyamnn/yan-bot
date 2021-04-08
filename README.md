@@ -7,15 +7,15 @@
 
 
 <p align="center">
-<a href="https://github.com/HAFizh-15"><img title="Author" src="https://img.shields.io/badge/HAFIZH-FREE%20SELF%20BOT-green)"></a>
+<a href="https://github.com/mriyamnn"><img title="Author" src="https://img.shields.io/badge/mriyamnn%20yan%20bot-green)"></a>
 </p>
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/HAFizh-15?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HAFizh-15?color=green&label=Follow&style=social"></a>
-<a href="https://github.com/HAFizh-15/leyscoders-api/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/HAFizh-15?color=green&label=STARS&style=social"></a>
-<a href="https://github.com/HAFizh-15/leyscoders-api/network/members"><img title="Forks" src="https://img.shields.io/github/followers/HAFizh-15?color=green&label=FORKS&style=social"></a>
-<a href="https://github.com/HAFizh-15/leyscoders-api/watchers"><img title="Watching" src="https://img.shields.io/github/followers/HAFizh-15?color=green&label=WACHING&style=sociale"></a>
+<a href="https://github.com/mriyamnn?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mriyamnn?color=green&label=Follow&style=social"></a>
+<a href="https://github.com/mriyamnn/yan-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/mriyamnn?color=green&label=STARS&style=social"></a>
+<a href="https://github.com/mriyamnn/yan-bot/network/members"><img title="Forks" src="https://img.shields.io/github/followers/mriyamnn?color=green&label=FORKS&style=social"></a>
+<a href="https://github.com/mriyamnn/yan-bot/watchers"><img title="Watching" src="https://img.shields.io/github/followers/mriyamnn?color=green&label=WACHING&style=sociale"></a>
 </p>
 <div align="center">
 <details>
@@ -26,17 +26,17 @@
 
 ### CARA INSTALLNYA
 ```bash
-> git clone https://github.com/HAFizh-15/leyscoders-api/
-> cd leyscoders-api
+> git clone https://github.com/mriyamnn/yan-bot/
+> cd yan-bot
 > bash install.sh
 > node -r fs.promises index js
 > scan qr
 
 ```
-## KLO MAU PAKAI JANGAN LUPA DI FORK YA NGAB
+## silahkan di pakai ya sayang
 
 # DONASI
-* [`TrakTeer`](https://trakteer.id/chizuru)
+* [`saweria`](https://saweria.co/IyanGanteng)
 
 
 ## SOSIAL MEDIA ADMIN
